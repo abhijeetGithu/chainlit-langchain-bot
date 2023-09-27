@@ -1,6 +1,7 @@
 # Welcome to Abhijeet's Bot! 🚀🤖
 
 Hi there, Machine Learner! 👋 I am very excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+![Ayurvedic Herbs](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/My_project_copy9-1_9LXwrn9.png)
 
 ## Useful Links 🔗
 
